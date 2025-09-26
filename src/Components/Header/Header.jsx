@@ -2,7 +2,7 @@ import React from 'react';
 import HomeImg from '../../assets/header-pic.jpg';
 const Header = () => {
     return (
-        <div className='flex flex-col-reverse md:flex-row justify-around px-10 py-8 my-25'>
+        <div className='flex flex-col-reverse md:flex-row justify-around px-10 my-25 py-10'>
             <div className='items-center justify-center'>
                 <h1 className='font-medium mt-9 text-xl'>Hi I am</h1>
                 <h1 className='text-orange-500 font-medium text-xl'>Muhammad Umair</h1>

@@ -4,7 +4,7 @@ import Pro2 from '../../assets/pro2.jpg';
 import Pro3 from '../../assets/pro3.jpg';
 const Projects = () => {
     return (
-        <div className='my-15'>
+        <div className='my-15 py-18'>
 
             <div className='justify-center text-center'>
                 <h1 className='text-4xl font-bold my-5'>Projects</h1>

@@ -5,7 +5,7 @@ import app from '../../assets/app.jpg';
 import graphics from '../../assets/graphics.jpg';
 const Services = () => {
     return (
-        <div className='my-7'>
+        <div className='my-7 py-18'>
 
             <div className='text-center justify-center'>
                 <h1 className='text-4xl font-bold'>Services</h1>

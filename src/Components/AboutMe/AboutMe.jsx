@@ -3,7 +3,7 @@ import React from 'react';
 import AboutImg from '../../assets/about-me.jpg';
 const AboutMe = () => {
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center md:items-start gap-8 px-13">
+    <div className="flex flex-col md:flex-row justify-between items-center md:items-start gap-8 px-13 py-18">
       <div>
         <img src={AboutImg} alt="" className='h-90  rounded-full border-4 border-orange-400' />
         <div className='w-50 h-10 bg-orange-400/50 transform -translate-y-77 translate-x-18 '></div>
