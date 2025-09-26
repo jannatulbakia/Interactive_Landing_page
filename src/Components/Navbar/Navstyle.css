@@ -1,0 +1,12 @@
+button{
+    transition-duration: 1s ease;
+}
+button:hover{
+    background-color:rgb(255, 255, 255);
+    color: #FD6F00;
+    transform:scale(1.1);
+    z-index: 0.5;
+}
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,9 @@
+.slick-slide {
+    opacity: 0.5; 
+    transition: opacity 0.5s ease; 
+    padding: 0 5px;
+}
+
+.slick-current {
+    opacity: 1; 
+}
